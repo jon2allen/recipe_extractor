@@ -10,6 +10,11 @@ This script takes transcripts of cooking videos and puts them into recipe format
 
 3.  Youtube API key
 
+### Setup fabric
+
+copy extract_recipe_prompt.md  $HOME/.config/fabric/patterns/extract_recipe/system.md  ( make extract_recipe dir first )
+
+
 
 Locate channel id of Youtube channel - hit share and copy channel_id
 
@@ -93,7 +98,56 @@ veal_scallops.txt - Veal Scallops
 https://www.youtube.com/watch?v=JYs79u5EmTM
 
 
+### Chinese recipe
 
+
+### Title
+
+sixi_wanzi.txt - Four Happiness Meatballs (四喜丸子)
+
+### Objectives
+- Learn to make delicious and tender Four Happiness Meatballs.
+- Master the techniques for preparing the meat mixture and shaping the meatballs.
+- Understand the importance of simmering for optimal flavor and texture.
+
+### Ingredients
+
+- Spring bamboo shoots (春笋), diced (筷子头大小的丁)
+- Sea cucumber (海参), diced (筷子头大小的丁)
+- Pork (三肥七瘦肉), 8 liang (approximately 360g)
+- Egg white (蛋清), 1
+- Soy sauce (酱油), 20g
+- Salt (盐), to taste
+- MSG (味精), to taste
+- Sesame oil (香油), 10g
+- Dried shrimp (干海米), 15g
+- Potato starch (淀粉), 25g (half liang)
+- All-purpose flour (面粉), 25g
+- Eggs (鸡蛋), 2-2.5
+- Cooking oil (豆油)
+
+
+### Instructions
+
+1. Dice spring bamboo shoots and sea cucumber into small pieces (about the size of a chopstick head).
+2. Combine pork, egg white, soy sauce, salt, MSG, and sesame oil in a bowl. Mix thoroughly until sticky and slightly stringy (about 4 minutes).
+3. Add the cooked dried shrimp and stir.
+4. Gradually add the potato starch and mix well.
+5. Add the flour and mix for another 2 minutes.
+6. Divide the mixture into small portions and shape into balls. (Wet hands to help shape the meatballs.)
+7. Beat eggs with 1 liang (60g) potato starch and some flour.
+8. Coat each meatball in the egg mixture.
+9. Deep fry the meatballs in hot oil for 10 minutes until golden brown and cooked through.
+10. In a separate pot, sauté scallions and ginger.
+11. Add the fried meatballs, salt, soy sauce, and water to the pot.
+12. Bring to a boil, then simmer for 20 minutes.
+13. Add MSG and simmer for an additional 10 minutes.
+14. Remove the meatballs and serve, drizzled with the cooking broth.  Do not add coriander or scallions.  Add more dried shrimp if the sea cucumber isn't flavorful enough.
+ 
+### Youtube link 
+ 
+https://www.youtube.com/watch?v=a8Xd5wsj5rg
+ 
 
 
 

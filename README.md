@@ -1,4 +1,6 @@
-Recipe extractor:  This script takes transcripts of cooking videos and puts them into recipe format.  It can handle Chinese - translate it.
+### Recipe extractor:  
+
+This script takes transcripts of cooking videos and puts them into recipe format.  It can handle Chinese - translate it.
 
 ###Pre-requisite:  
 
